@@ -3,7 +3,7 @@
     a) Nastavit oprávnění pro zápis souboru instalace/install.php;
     b) Otevřít web v prohlížeči, automaticky budete přesměrování na instalaci;
     c) Vyplňte přístupová údaje k databázi a klikněte na tlačítko ,,Instalovat";
-    d) Po instalaci můžete smazat soubor install.php;
+    d) Po instalaci můžete případně smazat složku instalace;
 
 2) Ruční instalace
     a) Pomocí souboru db.sql vytvořte tabulky v databázi;
