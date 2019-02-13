@@ -1,5 +1,8 @@
 <?php
-    if(!file_exists("config.php")) header("Location: /instalace/");
+    if(!file_exists("config.php")) {
+        header("Location: /instalace/");
+        exit;
+    }
 
     include("config.php");
     include("funkce/databaze.php");
