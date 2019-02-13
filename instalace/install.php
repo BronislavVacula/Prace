@@ -24,5 +24,5 @@
         $ok = 1;
     }
 
-    if($ok) echo "Instalace proběhla úspěšně!";
+    if($ok) echo "Instalace proběhla úspěšně! <a href='/index.php'>Přejít na úvodní stránku</a>";
     else echo "Instalace se nezdařila!";
