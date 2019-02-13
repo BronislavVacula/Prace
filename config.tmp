@@ -1,0 +1,7 @@
+<?php
+    $config = [
+        "server" => "localhost",
+        "uzivatel" => "root",
+        "heslo" => "",
+        "db" => "test"
+    ];
